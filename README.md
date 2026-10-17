@@ -1,2 +1,41 @@
-# python_lessons
-Master the basics of Python in no time! This concise guide breaks down core programming concepts—from variables and loops to functions and basic OOP—into simple, practical summaries. Perfect for beginners and anyone looking for a quick, handy reference
+دروس لغة بايثون
+
+Python Lessons
+
+من الأساسيات إلى البرمجة كائنية التوجه
+
+16 درساً مع أمثلة وتمارين
+
+فهرس الدروس
+
+الدرس 1: دالة الطباعة والمتغيرات
+
+الدرس 2: المُدخلات وتحويل الأنواع
+
+الدرس 3: العمليات الحسابية
+
+الدرس 4: الجمل الشرطية (if)
+
+الدرس 5: الحلقة التكرارية for
+
+الدرس 6: الحلقة while و break و continue
+
+الدرس 7: التعامل مع النصوص (Strings)
+
+الدرس 8: القوائم (Lists)
+
+الدرس 9: المجموعات المرتبة (Tuples) والمجموعات (Sets)
+
+الدرس 10: القواميس (Dictionaries)
+
+الدرس 11: الدوال (Functions)
+
+الدرس 12: الوحدات والمكتبات (import)
+
+الدرس 13: معالجة الأخطاء (try / except)
+
+الدرس 14: التعامل مع الملفات
+
+الدرس 15: البرمجة كائنية التوجه (1): الأصناف والكائنات
+
+الدرس 16: البرمجة كائنية التوجه (2): الوراثة
